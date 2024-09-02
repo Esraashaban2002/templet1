@@ -886,10 +886,9 @@ progress::-webkit-progress-value{
     }
     .footer .footer-content .footer-content-form .input-group input{
         font-size: 16px;
-        padding-left: 5px
     }
     .footer .footer-content .footer-content-form .input-group button{
-        padding: 12px 20px 12px 0px;
+        padding: 12px 0px;
         font-size: 14px;
     }
     .footer .footer-copyright{
