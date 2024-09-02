@@ -1,0 +1,180 @@
+.friendliest .friendliest-image .friendliest-image-details-icon {
+    width: 90px;
+    height: 90px;
+    position: relative;
+}
+.friendliest .friendliest-image .friendliest-image-details-icon .grid-dashed{
+    position: relative;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    width: 50%;
+    margin: auto;
+    gap: 4px;
+    margin-bottom: 20px;
+}
+.friendliest .friendliest-image .friendliest-image-details-icon .grid-dashed span{
+    background-color: #2A3334;
+}
+.friendliest .friendliest-image .friendliest-image-details-icon .grid-dashed .minus-1{
+    position: absolute;
+    width: 14px;
+    height: 3px;
+    top: 6px;
+    left: 19px;
+}
+.friendliest .friendliest-image .friendliest-image-details-icon .grid-dashed .minus-2{
+    position: absolute;
+    width: 19px;
+    height: 3px;
+    top: 6px;
+    left: 36px; 
+}
+.friendliest .friendliest-image .friendliest-image-details-icon .grid-dashed .minus-3{
+    position: absolute;
+    width: 14px;
+    height: 3px;
+    top: 6px;
+    left: 57px;
+}
+.friendliest .friendliest-image .friendliest-image-details-icon .grid-dashed .minus-4{
+    position: absolute;
+    width: 14px;
+    height: 4px;
+    top: 11px;
+    left: 18px;
+}
+.friendliest .friendliest-image .friendliest-image-details-icon .grid-dashed .minus-5{
+    position: absolute;
+    width: 21px;
+    height: 4px;
+    top: 11px;
+    left: 35px;
+}
+.friendliest .friendliest-image .friendliest-image-details-icon .grid-dashed .minus-6{
+    position: absolute;
+    width: 14px;
+    height: 4px;
+    top: 11px;
+    left: 58px;
+}
+.friendliest .friendliest-image .friendliest-image-details-icon .grid-dashed .minus-7{
+    position: absolute;
+    width: 15px;
+    height: 4px;
+    top: 18px;
+    left: 17px;
+}
+.friendliest .friendliest-image .friendliest-image-details-icon .grid-dashed .minus-8{
+    position: absolute;
+    width: 22px;
+    height: 4px;
+    top: 18px;
+    left: 34px;
+    
+}
+.friendliest .friendliest-image .friendliest-image-details-icon .grid-dashed .minus-9{
+    position: absolute;
+    width: 15px;
+    height: 4px;
+    top: 18px;
+    left: 58px;
+}
+.friendliest .friendliest-image .friendliest-image-details-icon .grid-dashed .minus-10{
+    position: absolute;
+    width: 6px;
+    height: 3px;
+    top: 25px;
+    left: 42px;
+}
+.friendliest .friendliest-image .friendliest-image-details-icon  .minus-11{
+    position: absolute;
+    width: 3px;
+    height: 58px;
+    top: 30px;
+    left: 66px;
+    background-color: #2A3334; 
+}
+.friendliest .friendliest-image .friendliest-image-details-icon  .minus-12{
+    position: absolute;
+    width: 58px;
+    height: 3px;
+    top: 88px;
+    left: 40px;
+    background-color: #2A3334; 
+}
+.friendliest .friendliest-image .friendliest-image-details-icon  .minus-13{
+    position: absolute;
+    width: 3px;
+    height: 10px;
+    top: 78px;
+    left: 95px;
+    background-color: #2A3334; 
+}
+.friendliest .friendliest-image .friendliest-image-details-icon  .minus-14{
+    position: absolute;
+    width: 3px;
+    height: 3px;
+    top: 73px;
+    left: 95px;
+    background-color: #2A3334; 
+}
+.friendliest .friendliest-image .friendliest-image-details-icon  .minus-15{
+    position: absolute;
+    width: 3px;
+    height: 20px;
+    top: 68px;
+    left: 40px;
+    background-color: #2A3334; 
+}
+.friendliest .friendliest-image .friendliest-image-details-icon  .minus-16{
+    position: absolute;
+    width: 14px;
+    height: 3px;
+    top: 63px;
+    left: 34px;
+    background-color: #2A3334; 
+}
+.friendliest .friendliest-image .friendliest-image-details-icon  .minus-17{
+    position: absolute;
+    width: 4px;
+    height: 2px;
+    top: 59px;
+    left: 39px;
+    background-color: #2A3334; 
+}
+.friendliest .friendliest-image .friendliest-image-details-icon  .arrow-right{
+    position: absolute;
+    font-size: 14px;
+    top: 73px;
+    left: 52px;
+    color: #2A3334; 
+}
+.friendliest .friendliest-image .friendliest-image-details-icon  .arrow-left{
+    position: absolute;
+    font-size: 14px;
+    top: 73px;
+    left: 72px;
+    color: #2A3334;
+}
+.friendliest .friendliest-image .friendliest-image-details-icon  .charge-1{
+    position: absolute;
+    font-size: 10px;
+    top: 46px;
+    left: 88px;
+    color: #FFBB1C;
+    background-color: #2A3334; 
+    padding: 4px 1px;
+    border: 3px solid #FFBB1C;
+    outline: 1px solid #2A3334;
+    border-radius: 2px;
+}
+.friendliest .friendliest-image .friendliest-image-details-icon  .charge-2{
+    position: absolute;
+    font-size: 10px;
+    top: 37px;
+    left: 28px;
+    color: #FFBB1C;
+    background-color: #2A3334; 
+    padding: 5px 10px;
+    border-radius: 2px;
+}
